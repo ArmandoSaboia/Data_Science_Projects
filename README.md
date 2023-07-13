@@ -1,6 +1,6 @@
 # Data Science Projects
 
-##### This repository contains multiple data science projects that I have worked on. Each project is organized in its own directory within this repository. Below is a brief overview of each project:
+#### This repository contains multiple data science projects that I have worked on. Each project is organized in its own directory within this repository. Below is a brief overview of each project:
 
 ## Project 1: [Project Name]
 # Description: [Brief description of the project]
