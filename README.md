@@ -14,11 +14,11 @@
 #### Dataset: [Source of the dataset]
 #### Files: [List of files in the project directory]
 
-###Project 3: [Project Name]
-####Description: [Brief description of the project]
-####Technologies Used: [List of technologies used]
-####Dataset: [Source of the dataset]
-####Files: [List of files in the project directory]
+### Project 3: [Project Name]
+#### Description: [Brief description of the project]
+#### Technologies Used: [List of technologies used]
+#### Dataset: [Source of the dataset]
+#### Files: [List of files in the project directory]
 
 # Usage
 ### To explore a specific project, navigate to the corresponding project directory and follow the instructions provided in the project's README file.
