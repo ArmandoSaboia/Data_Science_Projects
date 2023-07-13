@@ -27,7 +27,7 @@
 #### If you would like to contribute to any of the projects or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-####This repository is licensed under the [license name]. Please see the LICENSE file for more details.
+#### This repository is licensed under the MIT Licence. Please see the LICENSE file for more details.
 
 ## Contact
 #### If you have any questions or inquiries, you can reach me at [your contact information].
