@@ -30,6 +30,6 @@
 #### This repository is licensed under the MIT Licence. Please see the LICENSE file for more details.
 
 ## Contact
-#### If you have any questions or inquiries, you can reach me on .
-Feel free to customize this template according to your specific projects and requirements. Include additional sections or information as needed to provide a comprehensive overview of each data science project. Remember to update the project details, technologies used, and contact information accordingly.
+#### If you have any questions or inquiries, you can reach me via email at 4rm4nd1nh0_br@protonmail.com.
+
 
