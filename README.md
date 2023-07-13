@@ -3,7 +3,6 @@
 #### This repository contains multiple data science projects that I have worked on. Each project is organized in its own directory within this repository. Below is a brief overview of each project:
 
 ### Project 1: [Project Name]
-
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
@@ -31,6 +30,6 @@
 #### This repository is licensed under the MIT Licence. Please see the LICENSE file for more details.
 
 ## Contact
-#### If you have any questions or inquiries, you can reach me at [your contact information].
+#### If you have any questions or inquiries, you can reach me on .
 Feel free to customize this template according to your specific projects and requirements. Include additional sections or information as needed to provide a comprehensive overview of each data science project. Remember to update the project details, technologies used, and contact information accordingly.
 
