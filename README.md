@@ -6,77 +6,66 @@
 #### Description: The classification goal is to predict if the client will subscribe a term deposit 
 #### Technologies Used: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Ydata Profiling, Dataprep, Autoviz, Lux, Sweetviz, Gradio, Streamlit, Dash, Shap, Sklearn, Pycaret
 #### Dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing
-#### Files: [List of files in the project directory]
 #### URL: https://bit.ly/46Nkbrs
 
 ### Project 2: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 3: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 4: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 5: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 6: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 7: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 8: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 9: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project 10: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ### Project ***: [Project Name]
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
-#### Files: [List of files in the project directory]
 #### URL: [Link to the project]
 
 ## Usage
