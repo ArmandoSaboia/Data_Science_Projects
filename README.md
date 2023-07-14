@@ -7,7 +7,7 @@
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
 #### Files: [List of files in the project directory]
-#### URL: [Link to the project]
+#### URL: [https://github.com/ArmandoSaboia/banking_marketing.git]
 
 ### Project 2: [Project Name]
 #### Description: [Brief description of the project]
