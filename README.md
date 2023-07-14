@@ -2,7 +2,7 @@
 
 #### This repository contains multiple data science projects that I have worked on. Each project is organized in its own directory within this repository. Below is a brief overview of each project:
 
-### Project 1: [Project Name]
+### Project 1: Banking Marketing Problem
 #### Description: [Brief description of the project]
 #### Technologies Used: [List of technologies used]
 #### Dataset: [Source of the dataset]
