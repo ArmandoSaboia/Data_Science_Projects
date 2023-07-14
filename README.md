@@ -2,10 +2,10 @@
 
 #### This repository contains multiple data science projects that I have worked on. Each project is organized in its own directory within this repository. Below is a brief overview of each project:
 
-### Project 1: Banking Marketing Problem
-#### Description: [Brief description of the project]
+### Project 1: Bank Marketing Problem
+#### Description: The classification goal is to predict if the client will subscribe a term deposit 
 #### Technologies Used: [List of technologies used]
-#### Dataset: [Source of the dataset]
+#### Dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing
 #### Files: [List of files in the project directory]
 #### URL: https://bit.ly/46Nkbrs
 
