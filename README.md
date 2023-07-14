@@ -4,7 +4,7 @@
 
 ### Project 1: Bank Marketing Problem
 #### Description: The classification goal is to predict if the client will subscribe a term deposit 
-#### Technologies Used: [List of technologies used]
+#### Technologies Used: Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Ydata Profiling, Dataprep, Autoviz, Lux, Sweetviz, Gradio, Streamlit, Dash, Shap, Sklearn, Pycaret
 #### Dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing
 #### Files: [List of files in the project directory]
 #### URL: https://bit.ly/46Nkbrs
